@@ -5,7 +5,7 @@
 ```
 GPU: RTX2080 8G
 CPU: i9 9900KF
-RAM :32 GB
+RAM: 32 GB
 ```
 
 # 依赖环境
